@@ -1,0 +1,26 @@
+img.headericon{
+	filter: invert(100%);
+	padding-bottom: 5px;
+}
+body{
+	padding-top: 70px;
+}
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+.navbar-dark{
+	background: #2c3e50;
+}
+h1{
+	font-weight: bold;
+}
+.jumbotron img{
+	padding-bottom: 5px;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color:white;
+}
+.col-lg-4{
+	margin-bottom: 20px;
+}
